@@ -1,7 +1,7 @@
 {
   "name": "scroll-y-div",
-  "version": "0.0.1",
-  "description": "简易的竖向滚动组件，用于解决滚动条占位置的问题",
+  "version": "0.0.2",
+  "description": "简易的竖向滚动React组件，用于解决滚动条占位置的问题",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,6 +9,10 @@
   },
   "author": "akaziki",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akaziki/scroll-y-div"
+  },
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^17.0.2"

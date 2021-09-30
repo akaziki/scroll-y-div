@@ -11,7 +11,6 @@ module.exports = {
       arrowFunction: false,
     },
   },
-  mode: "development",
   module: {
     rules: [
       {
